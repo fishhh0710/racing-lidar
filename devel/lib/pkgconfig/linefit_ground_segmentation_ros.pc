@@ -1,0 +1,1 @@
+/home/boyu/pcl_ws/devel/.private/linefit_ground_segmentation_ros/lib/pkgconfig/linefit_ground_segmentation_ros.pc

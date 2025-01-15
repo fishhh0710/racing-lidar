@@ -1,0 +1,18 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/boyu/pcl_ws/src/cone_detection/src/cone_legality_verification.cpp:1[m[K:
+[01m[K/home/boyu/pcl_ws/src/cone_detection/src/cone_legality_verification.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/opt/ros/noetic/include/ros/console.h:384:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kdo[m[K’
+  384 |   [01;31m[Kdo[m[K \
+      |   [01;31m[K^~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/boyu/pcl_ws/src/cone_detection/src/cone_legality_verification.cpp:117:10:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+  117 |     ros::[01;36m[KROS_INFO[m[K("Start running cone_detection");
+      |          [01;36m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/cone_legality_verification.dir/build.make:63: CMakeFiles/cone_legality_verification.dir/src/cone_legality_verification.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:224: CMakeFiles/cone_legality_verification.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

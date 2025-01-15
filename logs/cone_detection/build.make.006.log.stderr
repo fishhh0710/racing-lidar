@@ -1,0 +1,10 @@
+make[2]: *** No rule to make target '/home/boyu/pcl_ws/src/cone_detection/src/conditional_removel.cpp', needed by 'CMakeFiles/conditional_removel.dir/src/conditional_removel.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:251: CMakeFiles/conditional_removel.dir/all] Error 2
+make[2]: *** No rule to make target '/home/boyu/pcl_ws/src/cone_detection/src/cone_legality_verification.cpp', needed by 'CMakeFiles/cone_legality_verification.dir/src/cone_legality_verification.cpp.o'.  Stop.
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/home/boyu/pcl_ws/src/cone_detection/src/euclidean_clustering.cpp', needed by 'CMakeFiles/euclidean_clustering.dir/src/euclidean_clustering.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:224: CMakeFiles/cone_legality_verification.dir/all] Error 2
+make[1]: *** [CMakeFiles/Makefile2:413: CMakeFiles/euclidean_clustering.dir/all] Error 2
+make[2]: *** No rule to make target '/home/boyu/pcl_ws/src/cone_detection/src/reconstructed_cone.cpp', needed by 'CMakeFiles/reconstructed_cone.dir/src/reconstructed_cone.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:548: CMakeFiles/reconstructed_cone.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

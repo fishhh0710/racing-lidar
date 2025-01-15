@@ -1,0 +1,1 @@
+/home/boyu/pcl_ws/devel/.private/fs-camera/lib/pkgconfig/fs-camera.pc

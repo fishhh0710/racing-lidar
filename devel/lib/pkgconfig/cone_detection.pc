@@ -1,0 +1,1 @@
+/home/boyu/pcl_ws/devel/.private/cone_detection/lib/pkgconfig/cone_detection.pc

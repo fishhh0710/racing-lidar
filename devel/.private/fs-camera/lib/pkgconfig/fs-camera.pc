@@ -1,0 +1,8 @@
+prefix=/home/boyu/pcl_ws/devel/.private/fs-camera
+
+Name: fs-camera
+Description: Description of fs-camera
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

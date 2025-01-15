@@ -1,0 +1,1 @@
+/home/boyu/pcl_ws/devel/.private/linefit_ground_segmentation_ros/share/linefit_ground_segmentation_ros/cmake/linefit_ground_segmentation_rosConfig-version.cmake

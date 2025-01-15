@@ -1,0 +1,5 @@
+Symlinking /home/boyu/pcl_ws/devel/share/linefit_ground_segmentation_ros/cmake/linefit_ground_segmentation_rosConfig-version.cmake
+Symlinking /home/boyu/pcl_ws/devel/share/linefit_ground_segmentation_ros/cmake/linefit_ground_segmentation_rosConfig.cmake
+Symlinking /home/boyu/pcl_ws/devel/lib/pkgconfig/linefit_ground_segmentation_ros.pc
+Symlinking /home/boyu/pcl_ws/devel/lib/linefit_ground_segmentation_ros/ground_segmentation_node
+Symlinking /home/boyu/pcl_ws/devel/lib/linefit_ground_segmentation_ros/ground_segmentation_test_node

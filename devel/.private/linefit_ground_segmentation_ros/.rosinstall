@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/boyu/pcl_ws/devel/.private/linefit_ground_segmentation_ros/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/boyu/pcl_ws/install
+
+Name: linefit_ground_segmentation_ros
+Description: Description of linefit_ground_segmentation_ros
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: eigen_conversions roscpp tf2_ros linefit_ground_segmentation

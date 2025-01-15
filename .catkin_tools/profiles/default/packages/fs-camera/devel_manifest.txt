@@ -1,0 +1,5 @@
+fs-camera
+/home/boyu/pcl_ws/devel/.private/fs-camera/cmake.lock /home/boyu/pcl_ws/devel/./cmake.lock
+/home/boyu/pcl_ws/devel/.private/fs-camera/share/fs-camera/cmake/fs-cameraConfig-version.cmake /home/boyu/pcl_ws/devel/share/fs-camera/cmake/fs-cameraConfig-version.cmake
+/home/boyu/pcl_ws/devel/.private/fs-camera/share/fs-camera/cmake/fs-cameraConfig.cmake /home/boyu/pcl_ws/devel/share/fs-camera/cmake/fs-cameraConfig.cmake
+/home/boyu/pcl_ws/devel/.private/fs-camera/lib/pkgconfig/fs-camera.pc /home/boyu/pcl_ws/devel/lib/pkgconfig/fs-camera.pc

@@ -1,0 +1,8 @@
+prefix=/home/boyu/pcl_ws/devel/.private/linefit_ground_segmentation
+
+Name: linefit_ground_segmentation
+Description: Description of linefit_ground_segmentation
+Version: 0.0.1
+Cflags: -I/home/boyu/pcl_ws/src/linefit_ground_segmentation/linefit_ground_segmentation/include
+Libs: -L${prefix}/lib -llinefit_ground_segmentation
+Requires: 

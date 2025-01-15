@@ -1,0 +1,8 @@
+prefix=/home/boyu/pcl_ws/install
+
+Name: cone_detection
+Description: Description of cone_detection
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcone_detection
+Requires: pcl_conversions pcl_msgs pcl_ros roscpp sensor_msgs

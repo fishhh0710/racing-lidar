@@ -1,0 +1,10 @@
+<launch>
+    <node name="downsampling" pkg="cone_detection" type="downsampling_node" output="screen"/> 
+    
+    <include file="linefit_ground_segmentation/linefit_ground_segmentation_ros/launch/segmentation.launch"/>
+
+    <node name="euclidean_clustering" pkg="cone_detection" type="euclidean_clustering_node" output="screen"/>
+    <node name="cone_legality_ver" pkg="cone_detection" type="cone_legality_verification_node" output="screen"/>
+    <node name="reconstructed_cone" pkg="cone_detection" type="reconstructed_cone_node" output="screen"/>
+
+</launch>

@@ -1,0 +1,1 @@
+/home/boyu/pcl_ws/devel/.private/fs-camera/share/fs-camera/cmake/fs-cameraConfig.cmake

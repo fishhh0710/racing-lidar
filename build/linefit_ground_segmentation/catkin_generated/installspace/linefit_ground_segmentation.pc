@@ -1,0 +1,8 @@
+prefix=/home/boyu/pcl_ws/install
+
+Name: linefit_ground_segmentation
+Description: Description of linefit_ground_segmentation
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -llinefit_ground_segmentation
+Requires: 
